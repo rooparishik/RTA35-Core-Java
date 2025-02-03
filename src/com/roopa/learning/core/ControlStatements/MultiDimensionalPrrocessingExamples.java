@@ -10,6 +10,10 @@ public class MultiDimensionalPrrocessingExamples {
     }
 
 
+
+
+
+
     private static void starPattern(){
         int rows = 5;
           for(int i = 1; i <= rows ; i++){
