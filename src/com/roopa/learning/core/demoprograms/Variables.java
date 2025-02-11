@@ -8,3 +8,4 @@ public class Variables {
         System.out.println(result );
     }
 }
+//Instance variables are those variables which are declared inside a class, not inside a method.
