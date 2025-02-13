@@ -3,6 +3,9 @@ package com.roopa.learning.core.oops.abstraction;
 /* Abstract Class is the class which is declared with "abstract" keyword & have Abstract Methods.
  It can have both abstract and concrete methods.
  If a class has 1 abstract method, then that class should be declared as Abstract Class.
+ Abstract Class is almost same as Concrete Class/Normal Class except the keyword Abstract
+ has to be mentioned for Abstract Class and object cannot be initiated in Abstract
+ Class.
  */
 
 // Here Bank is Abstract Class:
