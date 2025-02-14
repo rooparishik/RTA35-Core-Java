@@ -24,7 +24,7 @@ class Car{
 }
 
 
-public class CompositionStrongAssosciationExample {
+public class CompositionStrongAssociationExample{
 
     public static void main(String[] args) {
 
@@ -34,10 +34,10 @@ public class CompositionStrongAssosciationExample {
     }
 }
 
-/* Composition usually represents a Stronger Assosciation between two
-Classes. Exisistence of one class usually depends on other Class. It usually
+/* Composition usually represents a Stronger Association between two
+Classes. Existence of one class usually depends on other Class. It usually
 follows " Has-A " relationship between two Classes.
-In the Above prgm if Class Engine is not there, then Class Car will not excist.
-Since those two are highly dependant on each other ,this relationship between
-them is referred as Strong " CompositionAssosciation ."
+In the Above prgm if Class Engine is not there, then Class Car will not exist.
+Since those two are highly dependent on each other ,this relationship between
+them is referred as Strong " CompositionAssociation ."
  */
