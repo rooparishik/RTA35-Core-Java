@@ -22,7 +22,8 @@ package com.roopa.learning.core.oops.abstraction;
     */
 
     public void checkBalance(){
-         System.out.println(" Checking Balance...");
+
+        System.out.println(" Checking Balance...");
      }
 
 
@@ -46,6 +47,7 @@ package com.roopa.learning.core.oops.abstraction;
 
  @Override
  public void withDrawMoney(double amount) {
+
      System.out.println("Withdrawing amount from OnlineBanking :" + amount);
  }
   }
