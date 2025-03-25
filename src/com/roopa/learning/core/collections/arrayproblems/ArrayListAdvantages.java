@@ -58,6 +58,8 @@ public class ArrayListAdvantages {
 
         System.out.println(list.contains(5)); // returns true or False.
         System.out.println(list.contains(595)); // returns the index of the element.
+
+        System.out.println(list.get(5)); // returns the element at the specified index.
     }
 }
 
